@@ -1,0 +1,20 @@
+[
+    {
+        "method": "GET",
+        "url": "/url1",
+        "status": 201,
+        "body": "response body for /url1 get request"
+    },
+    {
+        "method": "POST",
+        "url": "/url1",
+        "status": 200,
+        "body": "response body for /url1 post request"
+    },
+    {
+        "method": "GET",
+        "url": "/url2",
+        "status": 200,
+        "body": "response body for /url2 get request"
+    }
+]
